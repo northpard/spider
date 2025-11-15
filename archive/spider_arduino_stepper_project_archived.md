@@ -1,14 +1,4 @@
-# 아두이노 스텝모터 거미 알림 장치 설계 (요약)
-
-이 문서는 상세 설계 내용이 README로 병합되어 관리됩니다. 원본의 전체 상세본은 아카이브 폴더로 이동했습니다.
-
-상세 아카이브: `archive/spider_arduino_stepper_project_archived.md`
-
-간단 링크 및 안내:
-- 빠른 시작: `README.md`의 "Quick Start" 섹션을 참고하세요.
-- 전체 스케치: `spider_controller/spider_controller.ino`
-
-이 파일은 더 이상 편집의 중심이 아니므로, 상세 변경은 `README.md`에서 진행해 주세요.
+```markdown
 # 아두이노 스텝모터 거미 알림 장치 설계 (.md 정리)
 
 퇴근/출근을 잊지 않도록, 정해진 시간대에 **줄에 매달린 거미**가
@@ -102,3 +92,7 @@
   - 비활성 시간대에는 천천히 위로 복귀
 
 전체 사용 가능한 예제 코드는 `spider_controller/spider_controller.ino` 파일에 포함되어 있습니다.
+
+```
+
+*** End Patch
